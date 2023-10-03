@@ -17,10 +17,10 @@
 h1 {
   width: 520px;
   line-height: 20px;
-  padding-top: 70px;
+  padding-top: 20px;
   padding-left: 100px;
-  font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
-  color: rgb(0,1,2);
+  font: 400 26px/1.5 Helvetica ,Arial ,sans-serif;
+  color: rgb(253,254,255);
   animation: 2.5s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
       </style>
