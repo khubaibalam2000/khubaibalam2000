@@ -21,7 +21,7 @@ h1 {
   padding-left: 100px;
   text-align: center;
   font: 400 26px/1.5 Helvetica ,Arial ,sans-serif;
-  color: rgb(253,254,255);
+  color: rgb(0,1,2);
   transform-origin: bottom;
   animation: 2.5s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
 }
