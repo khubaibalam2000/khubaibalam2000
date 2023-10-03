@@ -19,7 +19,7 @@ h1 {
   line-height: 20px;
   padding-top: 70px;
   padding-left: 100px;
-  font: 400 16px/1.5 Helvetica ,Arial ,sans-serif;
+  font: 400 16px Helvetica ,Arial ,sans-serif;
   color: rgb(0,1,2);
   transform-origin: bottom;
   animation: 2.5s cubic-bezier(.5, 0, .5, 1.2) 1s infinite bounce;
