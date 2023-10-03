@@ -3,6 +3,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khubaibalam2000" alt="khubaibalam2000" /></a> </p>
 
+- 🌱 I’m currently learning **Django, Spring boot, .Net, Javascript**
+
+- 👨‍💻 All of my projects are available at [https://khubaibalam.com/](https://khubaibalam.com/)
+
+- 📝 I regularly write articles on [https://khubaibalam.com/resume.pdf](https://khubaibalam.com/resume.pdf)
+
+- 💬 Ask me about **Django, Spring boot, .Net, Javascript**
+
+- 📫 How to reach me **khubaibalam2000@gmail.com**
+
+- 📄 Know about my experiences [https://khubaibalam.com/resume.pdf](https://khubaibalam.com/resume.pdf)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
