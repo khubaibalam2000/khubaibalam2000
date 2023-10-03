@@ -1,4 +1,4 @@
-<center> ![](./image.svg) </center>
+<h1> ![](./image.svg) </h1>
 
 <h1 align="center">Hi 👋, I'm Khubaib Alam</h1>
 <h3 align="center">Software Engineer - Shaping future with each stroke of the keyboard.</h3>
