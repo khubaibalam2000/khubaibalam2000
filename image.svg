@@ -15,7 +15,7 @@
   100% { transform: scale(1,    1)   translateY(0)     skew(0deg,  0deg); }
 }
 h1 {
-  width: 520px;
+  width: 620px;
   line-height: 20px;
   padding-top: 20px;
   padding-left: 100px;
