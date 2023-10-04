@@ -1,37 +1,80 @@
-![](./image.svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=Hi,+My+Name+is+Khubaib+Alam.)](https://github.com/khubaibalam2000)
 
-<h1 align="center">Hi 👋, I'm Khubaib Alam</h1>
-<h3 align="center">Software Engineer - Shaping future with each stroke of the keyboard.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=9046FF&width=835&lines=Software+Engineer+-+Shaping+Future+With+Each+Stroke+Of+The+Keyboard.)](https://github.com/khubaibalam2000)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khubaibalam2000" alt="khubaibalam2000" /></a> </p>
+![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-- 🌱 I’m currently learning **Django, Spring boot, .Net, Javascript**
+I'm a full-stack software engineer and web developer with a passion for creating beautiful, functional, and scalable applications. I have 3 years of experience working with many technologies.
 
-- 👨‍💻 All of my projects are available at [https://khubaibalam.com/](https://khubaibalam.com/)
+I have a knack for problem-solving and a keen eye for detail, which has allowed me to deliver high-quality projects that meet and exceed client expectations. I'm always eager to learn new technologies and explore new ways of developing creative and innovative solutions for my clients.
 
-- 📝 I regularly write articles on [https://khubaibalam.com/resume.pdf](https://khubaibalam.com/resume.pdf)
+As a software engineer, I love the process of taking a complex problem and breaking it down into manageable parts. There's nothing more satisfying than seeing a solution come together and knowing that it will make a real difference for users.
 
-- 💬 Ask me about **Django, Spring boot, .Net, Javascript**
+When I'm not coding away, I love to spend time learning new things and experimenting with new technologies. I'm also an avid traveler, and gamer.
 
-- 📫 How to reach me **khubaibalam2000@gmail.com**
+# Some of My Favorites Tools, and Languages
 
-- 📄 Know about my experiences [https://khubaibalam.com/resume.pdf](https://khubaibalam.com/resume.pdf)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,.net,react,js,html,css,eclipse,git,github,linux,mysql,mssql,nodejs,postman,visualstudio,vscode)](https://github.com/ammansoomro)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+# My Specs
 
-<h3 align="left">Connect with me:</h3>
+```yaml
+apiVersion: v23
+kind: Human
+metadata:
+  name: Khubaib Alam
+spec:
+  purpose: building digital experiences around the globe, likes to design solid and scalable applications with great user experiences, trying to craft his imagination to create human-centered products.
+  locations:
+    - 
+      type: Homepage
+      where: [https://amman-portfolio.netlify.app/](https://khubaibalam.com/)
+    -
+      type: Twitter
+      where: twitter.com/khubaibalam6
+    -
+      type: Medium
+      where: https://medium.com/@khubaibalam2000
+
+  favorites:
+    Games 🎮
+    Music 🎵 
+    Food 🍲 
+    Movies 🍿 
+```
+
+# Connect With Me
+<p align="left"> 
+<a href="https://www.linkedin.com/in/khubaib-alam/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="KhubaibAlam" />
+</a>
+<a href="mailto:khubaibalam2000@gmail.com" target="blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="KhubaibAlam" />
+</a>
+</p>
 <p align="left">
-<a href="https://twitter.com/khubaibalam6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khubaibalam6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khubaib-alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khubaib-alam" height="30" width="40" /></a>
-<a href="https://medium.com/@khubaibalam2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khubaibalam2000" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/khubaibalam2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="khubaibalam2000" height="30" width="40" /></a>
+<a href="https://www.instagram.com/khubaib_alam_ak/" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="KhubaibAlam" />
+</a>
+<a href="https://twitter.com/khubaibalam6" target="blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="KhubaibAlam" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+# My GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khubaibalam2000&show_icons=true&locale=en&layout=compact" alt="khubaibalam2000" /></p>
+### GitHub Streak
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khubaibalam2000&" alt="khubaibalam2000" /></p>
+[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=khubaibalam2000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/khubaibalam2000)
+
+</div>
+
+### GitHub Activity Graph
+[![Khubaib Alam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khubaibalam2000&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/khubaibalam2000)
+
+<div align="center">
+
+![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
+
+</div>
