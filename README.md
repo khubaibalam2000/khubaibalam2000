@@ -66,6 +66,6 @@ spec:
 ### GitHub Streak
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khubaibalam2000&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/khubaibalam2000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khubaibalam2000&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/khubaibalam2000)
 
 </div>
