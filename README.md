@@ -14,7 +14,7 @@ When I'm not coding away, I love to spend time learning new things and experimen
 
 # Some of My Favorites Tools, and Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,.net,react,js,html,css,eclipse,git,github,linux,mysql,mssql,nodejs,postman,visualstudio,vscode)](https://github.com/ammansoomro)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,.NET,react,js,html,css,eclipse,git,github,linux,mysql,mssql,nodejs,postman,visualstudio,vscode)](https://github.com/ammansoomro)
 
 # My Specs
 
@@ -66,6 +66,6 @@ spec:
 ### GitHub Streak
 <div align="center">
 
-[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=khubaibalam2000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/khubaibalam2000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khubaibalam2000&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
