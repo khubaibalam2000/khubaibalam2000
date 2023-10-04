@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=1000&color=9046FF&width=835&lines=Software+Engineer+-+Shaping+Future+With+Each+Stroke+Of+The+Keyboard.)](https://github.com/khubaibalam2000)
 
-![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![mario](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)
 
 I'm a full-stack software engineer and web developer with a passion for creating beautiful, functional, and scalable applications. I have 3 years of experience working with many technologies.
 
@@ -66,15 +66,6 @@ spec:
 ### GitHub Streak
 <div align="center">
 
-[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=khubaibalam2000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/khubaibalam2000)
-
-</div>
-
-### GitHub Activity Graph
-[![Khubaib Alam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=khubaibalam2000&color=a855f7&line=9046FF&hide_title=true&hide_border=true&theme=github-compact&point=9046FF)](https://github.com/khubaibalam2000)
-
-<div align="center">
-
-![octocat](https://user-images.githubusercontent.com/10498744/210113490-e2fad07f-4488-4da8-a656-b9abbdd8cb26.gif)
+[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=khubaibalam2000&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/khubaibalam2000)
 
 </div>
