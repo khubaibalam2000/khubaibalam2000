@@ -28,7 +28,7 @@ spec:
   locations:
     - 
       type: Homepage
-      where: [https://amman-portfolio.netlify.app/](https://khubaibalam.com/)
+      where: [https://khubaibalam.com/](https://khubaibalam.com/)
     -
       type: Twitter
       where: twitter.com/khubaibalam6
@@ -66,6 +66,6 @@ spec:
 ### GitHub Streak
 <div align="center">
 
-[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=khubaibalam2000&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/khubaibalam2000)
+[![gitHub streak](https://github-readme-streak-stats.herokuapp.com?user=khubaibalam2000&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=9046FF&ring=9046FF&fire=9046FF&currStreakNum=9046FF&sideNums=9046FF&currStreakLabel=9046FF&sideLabels=9046FF&dates=9046FF)](https://github.com/khubaibalam2000)
 
 </div>
