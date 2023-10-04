@@ -14,7 +14,7 @@ When I'm not coding away, I love to spend time learning new things and experimen
 
 # Some of My Favorites Tools, and Languages
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,.NET,react,js,html,css,eclipse,git,github,linux,mysql,mssql,nodejs,postman,visualstudio,vscode)](https://github.com/ammansoomro)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,.NET,react,js,html,css,eclipse,git,github,linux,mysql,mssql,nodejs,postman,visualstudio,vscode)](https://github.com/khubaibalam2000)
 
 # My Specs
 
